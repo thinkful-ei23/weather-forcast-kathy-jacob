@@ -1,0 +1,44 @@
+[
+  {
+    "day": "Sunday",
+    "weatherImage": "Sunny",
+    "hiTemp": "95",
+    "lowTemp": "89"
+  },
+  {
+    "day": "Monday",
+    "weatherImage": "Cloudy",
+    "hiTemp": "100",
+    "lowTemp": "93"
+  },
+  {
+    "day": "Tuesday",
+    "weatherImage": "Rainy",
+    "hiTemp": "95",
+    "lowTemp": "89"
+  },
+  {
+    "day": "Wednesday",
+    "weatherImage": "Snow",
+    "hiTemp": "30",
+    "lowTemp": "15"
+  },
+  {
+    "day": "Thursday",
+    "weatherImage": "Windy",
+    "hiTemp": "95",
+    "lowTemp": "89"
+  },
+  {
+    "day": "Friday",
+    "weatherImage": "PartlySunny",
+    "hiTemp": "85",
+    "lowTemp": "79"
+  },
+  {
+    "day": "Saturday",
+    "weatherImage": "Sleet",
+    "hiTemp": "34",
+    "lowTemp": "30"
+  }
+]
