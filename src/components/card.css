@@ -4,10 +4,18 @@ ul {
 li {
   list-style-type: none;
   border: 1px solid black;
-  padding: 4px 10px 4px 10px;
-  margin: 4px 10px 4px 10px;
+  margin: 10px;
+  box-sizing: border-box;
+  width: 120px;
+  height: 130px;
 }
-
-.clicked {
-  border: 10px solid yellow;
+.main-card {
+  width: 240px;
+  height: 220px;
+}
+.hovered {
+  border: 5px solid yellow;
+}
+.cards {
+  justify-content: center;
 }
